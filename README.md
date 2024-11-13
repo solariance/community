@@ -17,7 +17,4 @@ To ensure a positive and constructive environment, we ask that everyone follows 
   * **Stay on Topic**: Keep discussions relevant to Solariance products and related projects. For unrelated topics, consider using other platforms.
   * **Constructive Feedback**: Share feedback that is constructive and helpful. We encourage suggestions to help improve the platform.
 
-## Let’s Get Started!
-Comment below to introduce yourself! Share a bit about your background, your projects, and what you’re looking to accomplish with Solariance. Let’s build this community together 💪
-
 > **Please report any bugs or issues by opening a new issue.**
